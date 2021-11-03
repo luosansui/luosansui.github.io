@@ -27,7 +27,7 @@
   font-weight: 500;
 /*box-shadow: 0 2px 12px $theme_color_shadow;*/
   position: relative;
-  background: url("https://file.tempest.blue/image/Rimuru/count_item.png") center center/cover no-repeat;
+  background: url("https://cdn.tempest.blue/image/Rimuru/count_item.png") center center/cover no-repeat;
 }
 #nexmoe-header .nexmoe-count .nexmoe-count-item .item-radius {
   position: absolute;

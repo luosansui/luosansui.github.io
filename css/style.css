@@ -1403,7 +1403,7 @@ article pre .txt {
   color: #6088d0;
 }
 #nexmoe-content .nexmoe-post .nexmoe-py .aplayer {
-  background-image: url("https://cdn.tempest.blue/image/Rimuru/lrc.png");
+  background-image: url("$bg_aplayer");
   background-position: center;
   background-size: auto 100%;
   background-repeat: no-repeat;

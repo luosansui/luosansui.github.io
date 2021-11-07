@@ -204,12 +204,6 @@ article pre .txt {
   background: $theme_color_time;
   color: $theme_color;
 }
-#nexmoe-content .nexmoe-post .nexmoe-py .aplayer {
-  background-image: url("$bg_aplayer");
-  background-position: center;
-  background-size: auto 100%;
-  background-repeat: no-repeat;
-}
 #nexmoe-content .nexmoe-post .nexmoe-py p em {
   color: $theme_color;
   font-size: 17px;
